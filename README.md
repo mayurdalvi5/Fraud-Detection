@@ -3,6 +3,9 @@
 ## Overview
 This project focuses on detecting credit card fraud by utilizing machine learning techniques and data visualization. The goal is to identify fraudulent transactions from a dataset of financial transactions, improving detection accuracy and efficiency. The project is divided into two main parts: model development and dashboard visualization.
 
+## Dataset:
+Please download the dataset via the link : https://github.com/CapitalOneRecruiting/DS
+
 ## Table of Contents
 1. [Project Description](#project-description)
 2. [Features](#features)
