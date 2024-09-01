@@ -60,7 +60,13 @@ Credit card fraud detection is a critical aspect of financial security. This pro
 2. **Dashboard Visualization**:
    - Open the `fraud_detection.pbix` file in Power BI Desktop.
    - Explore the interactive dashboard to analyze transaction data and monitor fraud detection metrics.
-![Geographical Distribution Dashboard](path/to/your/image2.png)
+     
+   - Page 1 
+![Geographical Distribution Dashboard](Images/img1.png)
+   - Page 2
+   ![Geographical Distribution Dashboard](Images/img2.png)
+   - Page 3
+   ![Geographical Distribution Dashboard](Images/img3.png)
 
 ## Model Evaluation
 - **Precision**: Measures the accuracy of the positive predictions.
